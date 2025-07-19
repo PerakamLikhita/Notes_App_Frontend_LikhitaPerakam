@@ -1,0 +1,1 @@
+export const BASE_URL='https://notes-app-backend-likhitaperakam.onrender.com'
